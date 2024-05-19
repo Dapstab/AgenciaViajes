@@ -1,0 +1,17 @@
+extends baseEmail
+
+block content
+  p Hola #{firstName},
+  p Bienvenido a NombreApp, estamos felices de que estes aqui 🎉🙏
+  p Somos una gran familia, ¿Porque no subes una foto y nos muestras tu rostro?
+  table.btn.btn-primary(role='presentation', border='0', cellpadding='0', cellspacing='0')
+    tbody
+      tr
+        td(align='left')
+          table(role='presentation', border='0', cellpadding='0', cellspacing='0')
+            tbody
+              tr
+                td
+                  a(href=`${url}`, target='_blank') Upload user photo
+  p Si necesitas ayuda no dudes en contactarnos, estamos 24/7 a tu disposición
+  p - Tu nombre, CEO

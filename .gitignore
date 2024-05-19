@@ -1,0 +1,6 @@
+node_modules/
+config.env
+package-lock.json
+.cache
+public/js/bundle.js
+public/js/bundle.js.map
