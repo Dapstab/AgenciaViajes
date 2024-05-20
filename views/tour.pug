@@ -25,7 +25,7 @@ block content
         .heading-box__detail
           svg.heading-box__icon
             use(xlink:href='/img/icons.svg#icon-clock')
-          span.heading-box__text= `${tour.duration} days`
+          span.heading-box__text= `${tour.duration} días`
         .heading-box__detail
           svg.heading-box__icon
             use(xlink:href='/img/icons.svg#icon-map-pin')
@@ -35,29 +35,29 @@ block content
     .overview-box
       div
         .overview-box__group
-          h2.heading-secondary.ma-bt-lg Quick facts
+          h2.heading-secondary.ma-bt-lg Datos del tour
 
-          - const date = tour.startDates[0].toLocaleString('en-us', {month: 'long', year: 'numeric'})
-          +overviewBox('Next date', date, 'calendar')
-          +overviewBox('Difficulty', tour.difficulty, 'trending-up')
-          +overviewBox('Participants', `${tour.maxGroupSize} people`, 'user')
+          - const date = tour.startDates[0].toLocaleString('es', {month: 'long', year: 'numeric'})
+          +overviewBox('Siguiente fecha', date, 'calendar')
+          +overviewBox('Dificultad', tour.difficulty, 'trending-up')
+          +overviewBox('Participantes', `${tour.maxGroupSize} 'personas'`, 'user')
           +overviewBox('Rating', `${tour.ratingsAverage} / 5`, 'star')
 
         .overview-box__group
-          h2.heading-secondary.ma-bt-lg Your tour guides
+          h2.heading-secondary.ma-bt-lg Tus guías turisticos
 
           each guide in tour.guides
             .overview-box__detail
               img.overview-box__img(src=`/img/users/${guide.photo}`, alt=`${guide.name}`)
 
               - if (guide.role === 'lead-guide')
-                span.overview-box__label Lead guide
+                span.overview-box__label Guía lider
               - if (guide.role === 'guide')
-                span.overview-box__label Tour guide
+                span.overview-box__label Guía del tour
               span.overview-box__text= guide.name
 
     .description-box
-      h2.heading-secondary.ma-bt-lg= `About ${tour.name} tour`
+      h2.heading-secondary.ma-bt-lg= `Acerca de ${tour.name} tour`
       - const parapraphs = tour.description.split('\n');
       each p in parapraphs
         p.description__text= p
@@ -78,14 +78,14 @@ block content
   section.section-cta
     .cta
       .cta__img.cta__img--logo
-        img(src='/img/logo-white.png', alt='Natours logo')
+        //- img(src='/img/logo-white.png', alt='Natours logo')
       img.cta__img.cta__img--1(src=`/img/tours/${tour.images[1]}`, alt='Tour picture')
       img.cta__img.cta__img--2(src=`/img/tours/${tour.images[2]}`, alt='Tour picture')
       .cta__content
-        h2.heading-secondary What are you waiting for?
-        p.cta__text= `${tour.duration} days. 1 adventure. Infinite memories. Make it yours today!`
+        h2.heading-secondary ¿Qué estas esperando?
+        p.cta__text= `${tour.duration} días. 1 aventura. Infinitas memorias. Agenda ahora!`
         
         if user
-          button.btn.btn--green.span-all-rows#book-tour(data-tour-id=`${tour.id}`) Book tour now!
+          button.btn.btn--green.span-all-rows#book-tour(data-tour-id=`${tour.id}`) Agendar tour
         else
-          a.btn.btn--green.span-all-rows(href='/login') Log in to book tour
+          a.btn.btn--green.span-all-rows(href='/login') Inicia sesión para agendar

@@ -1,0 +1,466 @@
+[
+  {
+    "startLocation": {
+      "description": "Parque Nacional del Chicamocha (Panachi), Colombia",
+      "type": "Point",
+      "coordinates": [-73.132148, 6.790682],
+      "address": "Parque Nacional del Chicamocha, Aratoca, Santander, Colombia"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 102,
+    "images": [
+      "parque panachi (2).png",
+      "parque panachi (3).png",
+      "parque panachi (4).jpg"
+    ],
+    "startDates": [
+      "2024-06-19T09:00:00.000Z",
+      "2024-07-20T09:00:00.000Z",
+      "2024-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Parque Nacional del Chicamocha",
+    "duration": 7,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 250000,
+    "summary": "Explorando el impresionante Parque Nacional del Chicamocha y sus alrededores",
+    "description": "El Parque Nacional del Chicamocha es considerado como uno de los lugares turísticos más importantes de Colombia. La cultura, la tradición y las costumbres santandereanas, fueron la base del Diseño Arquitectónico y  los pilares fundamentales para dar inicio a lo que es hoy uno de los parques naturales más importante del país y de la región. Panachi se ha convertido en uno de los lugares más emblemáticos del departamento de Santander, sin lugar a dudas una visita obligada por sus atracciones, la fascinante vista del Cañón del Chicamocha y por tener uno de los monumentos más hermosos de Colombia, El Monumento a la Santandereanidad. Este monumento representa La Revolución de los Comuneros, un hecho histórico de Santander que fue el eje central para la construcción del Parque. Un lugar en donde la cultura, la tradición y las costumbres santandereanas cobran vida. El parque tiene como principal atractivo cruzar el Cañón del Chicamocha, a través de más de 6.3 kilómetros de recorrido en Teleférico, un espectacular panorama que disfrutan los visitantes del Parque Nacional del Chicamocha. Ha generado gran expectativa por ser el único que atraviesa un Cañón de 6.3 kilómetros de recorrido. Capacidad: 500 pasajeros en una hora. Este parque cuenta con mas de 15 atracciones extremas como el paracaidismo y bungee.",
+    "imageCover": "parque panachi (1).png",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Cañón del Chicamocha",
+        "type": "Point",
+        "coordinates": [-73.132148, 6.790682],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Barichara",
+        "type": "Point",
+        "coordinates": [-73.221181, 6.635122],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "San Gil",
+        "type": "Point",
+        "coordinates": [-73.133907, 6.554924],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Parque Nacional Natural El Cocuy",
+        "type": "Point",
+        "coordinates": [-72.408706, 6.413758],
+        "day": 5
+      }
+    ]
+  },
+
+  {
+    "startLocation": {
+      "description": "Restaurante La Puerta del Sol, Bogotá, Colombia",
+      "type": "Point",
+      "coordinates": [-74.063644, 4.672558],
+      "address": "Calle 90 #11-13, Bogotá, Colombia"
+    },
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": [
+      "R puerta sol (2).png",
+      "R puerta sol (3).png",
+      "R puerta sol (4).jpg"
+    ],
+    "startDates": [
+      "2021-04-25T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-10-05T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Viaje gastronómico en La Puerta del Sol",
+    "duration": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 180000,
+    "summary": "A delightful culinary experience at one of Bogotá's top restaurants",
+    "description": "La arepa santandereana es una variedad de arepa originaria de Santander, Colombia, caracterizada por su preparación con maíz pelado mezclado con chicharrón molido, y a veces yuca, lo que le da una textura crujiente por fuera y suave por dentro. Esta masa se forma en discos y se cocina tradicionalmente en parrillas o planchas, a menudo sobre hojas de bijao o plátano, lo que le aporta un sabor único. Se consume principalmente en el desayuno o como merienda, sola o acompañada de carnes, queso o aguacate, siendo un alimento distintivo y representativo de la rica gastronomía santandereana. El tamal santandereano es una especialidad culinaria de la región de Santander en Colombia, destacándose por su sabor y preparación distintiva. A diferencia de otros tamales colombianos, el tamal santandereano se elabora con una masa de maíz y arroz, mezclada con ingredientes como carne de cerdo, pollo, zanahoria, arvejas, garbanzos, y especias locales. Los ingredientes se envuelven en hojas de bijao o plátano y se cocinan al vapor, resultando en un tamal de textura firme y sabores intensos. Este tamal se disfruta principalmente durante celebraciones y festividades, siendo un elemento esencial de la gastronomía santandereana. El cabro y pepitoria es un plato emblemático de Bucaramanga, en la región de Santander, Colombia. Este plato tradicional combina carne de cabro (chivo), que se cocina asada y bien sazonada, con la pepitoria, una preparación hecha a base de las vísceras del cabro, arroz, sangre cocida, cebolla, ajo, y especias. La pepitoria tiene una consistencia cremosa y un sabor robusto, complementando perfectamente la carne tierna y jugosa del cabro asado. Este plato se sirve típicamente acompañado de yuca, papas, y arepa santandereana, representando la riqueza y la tradición culinaria santandereana. El mute es una sopa tradicional de la región de Santander en Colombia, conocida por su riqueza y sabor. Se prepara con una base de maíz blanco, al que se le añade una variedad de carnes como res, cerdo, y a veces gallina, junto con una mezcla de verduras que incluyen papa, yuca, repollo, arvejas, zanahoria, y cebolla. El mute se condimenta con especias locales, lo que le da un sabor característico. Esta sopa espesa y nutritiva se cocina lentamente para que los ingredientes se integren bien, y se sirve caliente, siendo un plato muy popular en reuniones familiares y celebraciones, reflejando la abundancia y diversidad de la gastronomía santandereana. Y la gaseosa famosa de la region llamada Cola Hipinto representa la cultura santandereana con un delicioso y refrescante sabor a Kola roja sin calorías, perfecta para acompañar los mejores platos de la región y refrescar en cualquier momento del día.",
+    "imageCover": "R puerta sol (1).png",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Monserrate",
+        "type": "Point",
+        "coordinates": [-74.058593, 4.605387],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Catedral de Sal de Zipaquirá",
+        "type": "Point",
+        "coordinates": [-74.064524, 5.018347],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "Laguna de Guatavita",
+        "type": "Point",
+        "coordinates": [-73.796724, 4.949231],
+        "day": 5
+      }
+    ]
+  },
+
+  {
+    "startLocation": {
+      "description": "Mercagan Restaurante, Bucaramanga, Colombia",
+      "type": "Point",
+      "coordinates": [-73.1198, 7.119349],
+      "address": "Cra. 33 #48-52, Bucaramanga, Santander, Colombia"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": [
+      "R mercagan (2).jpg",
+      "R mercagan (3).jpg",
+      "R mercagan (4).jpg"
+    ],
+    "startDates": [
+      "2022-01-05T10:00:00.000Z",
+      "2022-02-12T10:00:00.000Z",
+      "2023-01-06T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "Experiencia Gastronómica en Mercagan Restaurante",
+    "duration": 4,
+    "maxGroupSize": 10,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 200000,
+    "summary": "Una emocionante experiencia culinaria en Mercagan Restaurante en Bucaramanga",
+    "description": "Desde 1999 nace el primer restaurante Mercagán Parrilla con el fin de ofrecer al público santandereano, los mejores cortes de carne de res a la parrilla, provenientes de los mejores novillos producidos en nuestro departamento y especialmente en nuestra ganadería. Siempre manteniendo el concepto de la comida santandereana, razón por la cual se encuentra el cabrito, el cerdo, la carne oreada, la fritanga, la yuca frita, la arepa y las mejores sopas tradicionalmente santandereanas, tambien ofrecen hamburguesas y pinchos, pues sus carnes ofrecen la mayor terneza, jugosidad y sabor, además de que provienen de ganaderías con los mejores y más limpios estándares de producción y calidad.",
+    "imageCover": "R mercagan (1).jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Catedral de la Sagrada Familia",
+        "type": "Point",
+        "coordinates": [-73.121121, 7.119349],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Parque García Rovira",
+        "type": "Point",
+        "coordinates": [-73.119765, 7.118592],
+        "day": 2
+      }
+    ]
+  },
+
+  {
+    "startLocation": {
+      "description": "Catedral de la Sagrada Familia, Bucaramanga, Colombia",
+      "type": "Point",
+      "coordinates": [-73.121121, 7.119349],
+      "address": "Cra. 20 #36-40, Bucaramanga, Santander, Colombia"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": [
+      "Sagrada familia (2).jpg",
+      "Sagrada familia (3).jpg",
+      "Sagrada familia (4).jpg"
+    ],
+    "startDates": [
+      "2021-08-05T09:00:00.000Z",
+      "2022-03-20T10:00:00.000Z",
+      "2022-08-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "Recorrido Cultural en la Catedral de la Sagrada Familia",
+    "duration": 10,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 150000,
+    "summary": "Explorando los puntos históricos y culturales de Bucaramanga",
+    "description": "En 1895 al cura Uribe Villarreal se le ocurrió la idea de construir una nueva iglesia para Bucaramanga, quien para entonces era el encargado de la iglesia de Nuestra Señora de Chiquinquirá y San Laureano. Al principio no se contaba con una propiedad para construir la iglesia, entonces el primer paso que se dio fue la compra del predio, el cual fue adquirido el 14 de diciembre de 1895 al señor Eusebio Cadena por un valor de diez mil pesos. Gran parte del dinero se obtuvo por medio de recursos aportados por la comunidad. En menos de dos meses, el 12 de febrero, Pio XII declaró a la Sagrada Familia como Catedral de la Diócesis recientemente establecida. Dicho nombramiento se dio por encima de la iglesia de Nuestra Señora de Chiquinquirá y San Laureano y la recientemente constituida iglesia de San Gregorio. La década del setenta trajo de nuevo un nombramiento que jerarquizó aún más a la Sagrada Familia. El 14 de diciembre de 1974, por disposición del papa Pablo VI, la Diócesis de Bucaramanga se elevó a la categoría de arquidiócesis de Bucaramanga, tomando como catedral a la Sagrada Familia y asignando a Barrancabermeja como la nueva diócesis. Con el nombramiento anterior se le empezó a conocer como la catedral de la Sagrada Familia, y en calidad de catedral de la arquidiócesis de Bucaramanga fue propuesta en 1982 ante el Instituto Colombiano de Cultura como posible monumento nacional. La importancia de la religion en bucaramanga ha sido desde el principio.",
+    "imageCover": "Sagrada familia (1).jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Parque García Rovira",
+        "type": "Point",
+        "coordinates": [-73.119765, 7.118592],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "Museo Casa de Bolívar",
+        "type": "Point",
+        "coordinates": [-73.117847, 7.113923],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2963",
+        "description": "Parque del Agua",
+        "type": "Point",
+        "coordinates": [-73.115859, 7.125769],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2962",
+        "description": "Museo de Arte Moderno de Bucaramanga",
+        "type": "Point",
+        "coordinates": [-73.111211, 7.113748],
+        "day": 4
+      }
+    ]
+  },
+
+  {
+    "startLocation": {
+      "description": "Cerro El Santísimo, Floridablanca, Colombia",
+      "type": "Point",
+      "coordinates": [-73.09179, 7.10668],
+      "address": "Floridablanca, Santander, Colombia"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": [
+      "Cerro del santisimo (2).jpg",
+      "Cerro del santisimo (3).jpg",
+      "Cerro del santisimo (4).jpg"
+    ],
+    "startDates": [
+      "2021-03-11T10:00:00.000Z",
+      "2021-05-02T09:00:00.000Z",
+      "2021-06-09T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "Recorrido por el Cerro El Santísimo",
+    "duration": 9,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 200000,
+    "summary": "Viviendo la experiencia del turismo en los lugares más hermosos de Santander",
+    "description": "Este gran proyecto, tiene como principal atractivo El Santísimo, una escultura artística de gran dimensión, un monumento con 37 metros de alto (Incluido su pedestal)  y detrás de él, una estructura tríptica con dos ascensores panorámicos que en su recorrido llegan a una altura de 40 mts.  Allí se tiene acceso al mirador principal, desde donde se puede contemplar la mejor panorámica para disfrutar una completa vista de los cuatro municipios que conforman el Área Metropolitana: Girón, Piedecuesta, Floridablanca y Bucaramanga. Esta escultura fue diseñada por el maestro santandereano Juan José Cobos Roa. Este parque natural, es un sitio con una historia tan grande como sus dimensiones. El recorrido por el parque inicia en la Hacienda La Esperanza, lugar donde funcionó la primera cervecería fundada en Colombia en 1.886 por el ciudadano danés Christian Peter Clausen, la cual funcionó desde el 1.886 hasta mediados del siglo XX y fue pionera en procesos industriales como generación hidroeléctrica y automatización. Dentro de las innovaciones de la época surgieron las bebidas refrescantes gasificadas y la Cervola, la antecesora de la kola y Pola de hoy. La Hacienda la Esperanza cuenta también con un auditorio con capacidad para 300 personas, el cual ha sido escenario de importantes congresos de nuestro país.",
+    "imageCover": "Cerro del santisimo (1).jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "Parque Nacional del Chicamocha",
+        "type": "Point",
+        "coordinates": [-73.132148, 6.790682],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "Barichara",
+        "type": "Point",
+        "coordinates": [-73.221181, 6.635122],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "Cañón del Chicamocha",
+        "type": "Point",
+        "coordinates": [-73.132148, 6.790682],
+        "day": 5
+      }
+    ]
+  },
+
+  {
+    "startLocation": {
+      "description": "Parapente en Bucaramanga, Colombia",
+      "type": "Point",
+      "coordinates": [-73.123854, 7.137541],
+      "address": "Ruitoque, Floridablanca, Santander, Colombia"
+    },
+    "ratingsAverage": 3.9,
+    "ratingsQuantity": 7,
+    "images": ["Parapente (2).jpg", "Parapente (3).jpg", "Parapente (4).jpg"],
+    "startDates": [
+      "2021-07-19T09:00:00.000Z",
+      "2021-09-06T09:00:00.000Z",
+      "2022-03-18T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "Aventura Deportiva en Santander",
+    "duration": 14,
+    "maxGroupSize": 8,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 175000,
+    "summary": "Parapente, senderismo, rafting y más, todo en un tour",
+    "description": "A tan solo 15 minutos de Bucaramanga, en el KM 2 de la vía a la Mesa de Ruitoque, (municipio de Floridablanca), se encuentra el Voladero Las Águilas, considerado como uno de los mejores voladeros de Colombia, donde la pista de despegue es la misma de aterrizaje y durante el día hay vientos aptos para la actividad.  Los vuelos de inducción son realizados por pilotos con certificación Fedeaereos, siguiendo la norma técnica sectorial NTSAV-013, los equipos utilizados son con tecnología de punta.",
+    "imageCover": "Parapente (1).jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296b",
+        "description": "Ruitoque",
+        "type": "Point",
+        "coordinates": [-73.123854, 7.137541],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296a",
+        "description": "Parque Nacional del Chicamocha",
+        "type": "Point",
+        "coordinates": [-73.132148, 6.790682],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2969",
+        "description": "Cañón del Chicamocha",
+        "type": "Point",
+        "coordinates": [-73.132148, 6.790682],
+        "day": 6
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2968",
+        "description": "San Gil",
+        "type": "Point",
+        "coordinates": [-73.133907, 6.554924],
+        "day": 7
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2967",
+        "description": "Barichara",
+        "type": "Point",
+        "coordinates": [-73.221181, 6.635122],
+        "day": 10
+      }
+    ]
+  },
+
+  {
+    "startLocation": {
+      "description": "Eco caminata Cañón del Chicamocha, Santander, Colombia",
+      "type": "Point",
+      "coordinates": [-73.132148, 6.790682],
+      "address": "Parque Nacional del Chicamocha, Aratoca, Santander, Colombia"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["Eco (2).jpg", "Eco (3).jpg", "Eco (4).jpg"],
+    "startDates": [
+      "2021-03-23T10:00:00.000Z",
+      "2021-10-25T09:00:00.000Z",
+      "2022-01-30T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "Eco Caminata Cañón del Chicamocha",
+    "duration": 9,
+    "maxGroupSize": 8,
+    "difficulty": "medium",
+    "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+    "price": 250000,
+    "summary": "Los lugares más remotos y asombrosamente hermosos para disfrutar del cielo nocturno",
+    "description": "Cañón Chicamocha, el segundo cañon más grande del mundo. Disfruta de los impactantes sonidos y la increíble vista que la naturaleza tiene para ti, sus pájaros endémicos cantando y revocando mientras caminas por el camino real a Jordan, construido por los indios guane hace más de 500 años y sus monos aulladores que se sienten vivos en la distancia mientras mantienen el Cañón despierto. Al llegar al río Chicamocha, podrá relajarse en \"Shangri-La\", el refugio de los caminantes con su piscina natural, restaurante, cabañas y docenas de hamacas de colores brillantes que te llaman a descanso. Luego, al llegar al pueblo más pequeño de Colombia, Jordan Santander; Con solo 60 habitantes, verá el primer peaje de Colombia mientras deja que los mismos lugareños le cuenten la historia de Jordan.",
+    "imageCover": "Eco (1).jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Parque Nacional del Chicamocha",
+        "type": "Point",
+        "coordinates": [-73.132148, 6.790682],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": "Mesa de Los Santos",
+        "type": "Point",
+        "coordinates": [-73.122742, 6.797235],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2971",
+        "description": "Cañón del Chicamocha Mirador",
+        "type": "Point",
+        "coordinates": [-73.139355, 6.722631],
+        "day": 6
+      }
+    ]
+  },
+
+  {
+    "startLocation": {
+      "description": "Tour privado Parque Nacional del Chicamocha, Santander, Colombia",
+      "type": "Point",
+      "coordinates": [-73.132148, 6.790682],
+      "address": "Parque Nacional del Chicamocha, Aratoca, Santander, Colombia"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": [
+      "private-tour (2).jpg",
+      "private-tour (3).jpg",
+      "private-tour (4).jpg"
+    ],
+    "startDates": [
+      "2021-12-16T10:00:00.000Z",
+      "2022-01-16T10:00:00.000Z",
+      "2022-12-12T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "Tour Privado Parque Nacional del Chicamocha",
+    "duration": 3,
+    "maxGroupSize": 12,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "price": 300000,
+    "summary": "Disfruta de un tour privado en el impresionante Parque Nacional del Chicamocha",
+    "description": "Explora el Parque Nacional del Chicamocha en un tour privado diseñado para brindarte una experiencia única y personalizada. Descubre la belleza del cañón del Chicamocha, disfruta de actividades al aire libre y relájate con vistas espectaculares.",
+    "imageCover": "private-tour (1).jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2975",
+        "description": "Parque Nacional del Chicamocha",
+        "type": "Point",
+        "coordinates": [-73.132148, 6.790682],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2976",
+        "description": "Mesa de Los Santos",
+        "type": "Point",
+        "coordinates": [-73.122742, 6.797235],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2977",
+        "description": "Cañón del Chicamocha Mirador",
+        "type": "Point",
+        "coordinates": [-73.139355, 6.722631],
+        "day": 3
+      }
+    ]
+  }
+]
